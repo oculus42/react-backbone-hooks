@@ -1,0 +1,28 @@
+{
+  "name": "react-backbone-hooks",
+  "version": "0.2.1",
+  "description": "React Hooks for Backbone Models & Collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Rouse",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oculus42/react-backbone-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "backbone",
+    "model",
+    "collection"
+  ],
+  "bugs": {
+    "url": "https://github.com/oculus42/react-backbone-hooks/issues"
+  },
+  "homepage": "https://github.com/oculus42/react-backbone-hooks#readme"
+}
